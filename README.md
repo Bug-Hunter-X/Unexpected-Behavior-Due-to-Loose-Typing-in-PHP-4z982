@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in PHP: unexpected behavior arising from loose type comparisons. The `bug.php` file contains a function that showcases this issue, while `bugSolution.php` offers a solution using strict comparison to ensure accuracy.
